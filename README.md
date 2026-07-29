@@ -4,7 +4,8 @@ An animated 3D planet rendered with **Three.js**, generated entirely from thousa
 
 ## 📸 Preview
 
-_Add screenshots or a GIF here._
+<img width="960" height="417" alt="preview" src="https://github.com/user-attachments/assets/fb74453a-b3fd-4805-9c84-c150a2295fed" />
+
 
 ## ✨ Highlights
 
